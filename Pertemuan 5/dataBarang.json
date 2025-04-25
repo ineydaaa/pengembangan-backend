@@ -1,0 +1,20 @@
+[
+  {
+    "id_barang": 1,
+    "nama_barang": "Meja Makan",
+    "harga": 400000,
+    "stok": 30
+  },
+  {
+    "id_barang": 2,
+    "nama_barang": "Kulkas",
+    "harga": 400000000,
+    "stok": 10
+  },
+  {
+    "id_barang": 3,
+    "nama_barang": "Sendok",
+    "harga": 400,
+    "stok": 300
+  }
+]
